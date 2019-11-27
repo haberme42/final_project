@@ -1,0 +1,3 @@
+argparse==v.1.1
+sklearn==v.0.20.1
+numpy==v.1.15.4
