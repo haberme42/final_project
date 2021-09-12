@@ -1,5 +1,5 @@
 # Final Project
-##Rambam classifier
+## Rambam classifier
 
 A research project deteined to create general classifier that can calssify Shutim to Halachot from the Rambam.
 For more information, see דו"ח סופי.pdf
